@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: micua
- * Plugin URI: http://wordpress.org/plugins/wedn-speed/
+ * Plugin Name: wedn
+ * Plugin URI: http://wordpress.org/plugins/wedn/
  * Description: 禁用Google字体，修改Gravatar为多说服务提供
  * Author: iceStone <ice@wedn.net>
  * Version: 1.0
